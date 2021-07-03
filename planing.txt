@@ -1,0 +1,8 @@
+database 
+1 product
+2 category
+3 cart
+4 orders
+5 customers
+6 payments
+7 admins
